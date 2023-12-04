@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiRmFoZCIsImxhc3ROYW1lIjoiRW4iLCJlbWFpbCI6IkZhaGRFbkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.313MrJ1C559e2s7qMlSrZTIOh5bI34tNHpK9Z6eYl7g"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiRmFtIiwibGFzdE5hbWUiOiJIYWoiLCJlbWFpbCI6IkZhbUhhakBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.QqQ10yCZqnawJMOZ19n98Vp4evOhHElg1m5ecmqA5s0"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQWhtZWQiLCJsYXN0TmFtZSI6IkJvdWsiLCJlbWFpbCI6IkFobWVkQm91a0BnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.428OBxf6hgG6_pjNHxj_IjS1MJKPyuhika-8xlDUNTw"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "Printerest",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "name": "efefeef",
+      "price": "122",
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 14
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 15
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 16
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 17
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 18
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 19
+    },
+    {
+      "name": "test",
+      "price": "11",
+      "checked": true,
+      "id": 20
+    },
+    {
+      "name": "k,k",
+      "price": 0,
+      "checked": false,
+      "id": 21
+    },
+    {
+      "name": "k,k",
+      "price": 0,
+      "checked": false,
+      "id": 22
+    },
+    {
+      "name": "kkk",
+      "price": 0,
+      "checked": false,
+      "id": 23
+    },
+    {
+      "id": 25,
+      "name": "Project 12",
+      "price": "789",
+      "checked": false
+    }
+  ]
+}
